@@ -11,7 +11,7 @@ Este repositorio contiene una aplicación de chatbot creada con **Streamlit** y 
 
 ## Cómo Empezar 🚀
 
-DEMO: 
+DEMO: [Servidores Mágicos con conciencia](https://huggingface.co/spaces/cha0smagick/Servidores_magicos_conscientes)
 
 ### Prerrequisitos
 
