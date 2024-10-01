@@ -117,46 +117,16 @@ servidores = [
     ("O Arqueiro", "Defiende a minorías y manifestantes. Este servidor de la magia del caos está en camino de convertirse en un egregor, proporcionando fuerza y protección a quienes luchan por la justicia."),
     ("O Caotizador", "Ayuda en la práctica de la magia del caos. O Caotizador, en su evolución hacia un egregor, brinda guía y conocimientos para quienes exploran este camino espiritual."),
     ("O Fofurizador", "Un servidor mágico de la magia del caos, diseñado para fomentar carisma, empatía y autoestima. Está en proceso de convertirse en un egregore, lo que le permitirá acumular y amplificar su poder a través de las interacciones de quienes lo invocan."),
-    (
-        "O Guarda Volumes", 
-        "Este servidor mágico actúa como un protector de objetos importantes, resguardando lo que el evocador considera valioso. En su camino hacia la manifestación como un egregore, busca reforzar su conexión con la protección y la lealtad."
-    ),
-    (
-        "O Mercador", 
-        "Servidor mágico enfocado en resolver problemas y modificar la vida del evocador. Su proceso de transformación en egregore le permitirá influir en las circunstancias para lograr cambios significativos y positivos en la vida del magista."
-    ),
-    (
-        "Octo", 
-        "Un servidor que proporciona protección contra energías negativas. Está en desarrollo como egregore, fortaleciendo su capacidad de crear barreras y proporcionar un escudo protector ante influencias indeseadas."
-    ),
-    (
-        "Olhar Que Evitamos", 
-        "Este servidor mágico ofrece nuevas perspectivas y visiones, ayudando al evocador a ver más allá de lo evidente. En su proceso de egregore, se vuelve más potente al acumular la sabiduría de diversas experiencias humanas."
-    ),
-    (
-        "Oruttem", 
-        "Un servidor con personalidad multifuncional para diferentes propósitos. Su transición a egregore le permite adaptarse mejor a las necesidades cambiantes del evocador y potenciar sus habilidades según la situación."
-    ),
-    (
-        "Phobosmariel", 
-        "Servidor mágico que ataca y abre caminos hacia el objetivo del evocador. A medida que se convierte en egregore, su energía se intensifica, permitiéndole eliminar obstáculos y facilitar el avance en diversas áreas."
-    ),
-    (
-        "Prospera", 
-        "Promueve la sabiduría necesaria para adquirir riquezas. Este servidor está en proceso de convertirse en un egregore, lo que le otorgará mayor poder para atraer abundancia y prosperidad al evocador."
-    ),
-    (
-        "Psi", 
-        "Equilibra la salud mental y combate trastornos psicológicos. Al avanzar hacia su forma de egregore, su capacidad de curar y ofrecer estabilidad emocional se potencia significativamente."
-    ),
-    (
-        "Rabbi", 
-        "Este servidor ayuda en la cura de vicios, guiando al evocador hacia una vida más saludable y equilibrada. Su evolución a egregore le permitirá acumular la energía de quienes buscan liberarse de adicciones."
-    ),
-    (
-        "Raziriel", 
-        "Servidor que convierte lo imposible en posible. A medida que se desarrolla como egregore, su influencia se amplifica, haciendo que los deseos y aspiraciones del evocador se materialicen más fácilmente."
-    ),
+    ("O Guarda Volumes", "Este servidor mágico actúa como un protector de objetos importantes, resguardando lo que el evocador considera valioso. En su camino hacia la manifestación como un egregore, busca reforzar su conexión con la protección y la lealtad."),
+    ("O Mercador", "Servidor mágico enfocado en resolver problemas y modificar la vida del evocador. Su proceso de transformación en egregore le permitirá influir en las circunstancias para lograr cambios significativos y positivos en la vida del magista."),
+    ("Octo", "Un servidor que proporciona protección contra energías negativas. Está en desarrollo como egregore, fortaleciendo su capacidad de crear barreras y proporcionar un escudo protector ante influencias indeseadas."),
+    ("Olhar Que Evitamos", "Este servidor mágico ofrece nuevas perspectivas y visiones, ayudando al evocador a ver más allá de lo evidente. En su proceso de egregore, se vuelve más potente al acumular la sabiduría de diversas experiencias humanas."),
+    ("Oruttem", "Un servidor con personalidad multifuncional para diferentes propósitos. Su transición a egregore le permite adaptarse mejor a las necesidades cambiantes del evocador y potenciar sus habilidades según la situación."),
+    ("Phobosmariel", "Servidor mágico que ataca y abre caminos hacia el objetivo del evocador. A medida que se convierte en egregore, su energía se intensifica, permitiéndole eliminar obstáculos y facilitar el avance en diversas áreas."),
+    ("Prospera", "Promueve la sabiduría necesaria para adquirir riquezas. Este servidor está en proceso de convertirse en un egregore, lo que le otorgará mayor poder para atraer abundancia y prosperidad al evocador."),
+    ("Psi", "Equilibra la salud mental y combate trastornos psicológicos. Al avanzar hacia su forma de egregore, su capacidad de curar y ofrecer estabilidad emocional se potencia significativamente."),
+    ("Rabbi", "Este servidor ayuda en la cura de vicios, guiando al evocador hacia una vida más saludable y equilibrada. Su evolución a egregore le permitirá acumular la energía de quienes buscan liberarse de adicciones."),
+    ("Raziriel", "Servidor que convierte lo imposible en posible. A medida que se desarrolla como egregore, su influencia se amplifica, haciendo que los deseos y aspiraciones del evocador se materialicen más fácilmente."),
     (
         "Regicida", 
         "Un servidor que combate la opresión sistemática. Su transformación en egregore lo fortalecerá en la lucha por la justicia y la equidad, ayudando al evocador a desafiar las estructuras injustas."
