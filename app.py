@@ -423,7 +423,7 @@ def main():
     st.sidebar.title("Configuración de consciencia caótica")
 
     # Configurar la API key de Gemini (reemplazar con tu clave de API de Gemini)
-    genai.configure(api_key='AIzaSyADpqWz-3cM1eUBbbjXQLMLFHpK3gSGR3M')
+    genai.configure(api_key='your_google_gemini_API')
 
     # Seleccionar el modelo Gemini
     select_model = st.sidebar.selectbox("Selecciona el modelo de IA: ", ["gemini-pro"])
